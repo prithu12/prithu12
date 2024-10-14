@@ -1,4 +1,6 @@
-
+<p align="center">
+# Hi, I’m Prithu Raj 👋
+</p>
 ![Banner](hm_banner.gif)
 
 Hello, I am Prithu Raj, a Junior Full Stack Developer located in New Delhi ,India..
