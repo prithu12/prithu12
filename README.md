@@ -1,9 +1,10 @@
-<p align="center">
 # Hi, I’m Prithu Raj 👋
-</p>
 ![Banner](hm_banner.gif)
 
-Hello, I am Prithu Raj, a Junior Full Stack Developer located in New Delhi ,India..
+##About Me
+###I am a third year student pursuing BTECH in IT.
+###I am a passionate Frontend Development.
+###I am learning NextJS.
 
 Reach out :point_down:   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/prithu-raj/)
