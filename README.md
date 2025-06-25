@@ -30,10 +30,11 @@
 
 ## 📌 Projects
 
-- [Portfolio Website](https://github.com/prithu12/your-portfolio-repo) – A personal portfolio showcasing my skills and projects  
-- [Email Automation Tool](https://github.com/prithu12/your-email-tool-repo) – Streamlined professional outreach using Nodemailer & MongoDB  
-- [More coming soon…]
+- [Globe Explorer](https://github.com/prithu12/GLOBE-EXPLORER) – AI-powered travel-planning platform works, detailing how users log in securely via Auth0, set preferences like location, duration, budget, and group size, and receive curated trip plans from Gemini AI
+- [Lifeline](https://github.com/priyanshushrma01/Lifeline) – I am in this team for working as a frontend Developer for building frontend in this project. The platform enables people to raise and contribute funds for medical assistance, helping individuals who cannot afford essential treatments or surgeries.
 
+- [Blood Pointer](https://github.com/prithu12/blood-pointer)-Attempted to locate near blood bank with their availibilty in blood and also help people and also provide a list of donor to blood bank
+-[more soon]
 ---
 
 ## 💡 Currently Exploring
