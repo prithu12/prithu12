@@ -19,12 +19,13 @@
 
 | Category        | Tools & Frameworks |
 |----------------|--------------------|
-| **Languages**  | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
-| **Frontend**   | ![ReactJS](https://img.shields.io/badge/ReactJS-v18.2-brightgreen.svg) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) |
-| **Backend**    | ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white) |
-| **Database**   | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?&style=for-the-badge&logo=mysql&logoColor=white) |
+| **Languages**  | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) |
+| **Frontend**   | ![ReactJS](https://img.shields.io/badge/React-v18.2-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white) |
+| **Backend**    | ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white) |
+| **Databases**  | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Tools**      | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 | **Design**     | ![Figma](https://img.shields.io/badge/Figma-%23000000.svg?&style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=canva&logoColor=white) |
+| **DSA & CP**   | ![LeetCode](https://img.shields.io/badge/DSA-%23007ACC.svg?&style=for-the-badge&logo=leetcode&logoColor=white) ![Codeforces](https://img.shields.io/badge/Combinatorics-%23F44336.svg?&style=for-the-badge) |
 
 ---
 
