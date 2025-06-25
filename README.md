@@ -25,10 +25,7 @@
 | **Databases**  | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Tools**      | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 | **Design**     | ![Figma](https://img.shields.io/badge/Figma-%23000000.svg?&style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=canva&logoColor=white) |
-| **DSA** | 
-![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?&style=for-the-badge&logo=leetcode&logoColor=white) 
-![CodeChef](https://img.shields.io/badge/CodeChef-%2338353A.svg?&style=for-the-badge&logo=codechef&logoColor=white) 
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+| **DSA** | ![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?&style=for-the-badge&logo=leetcode&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-%2338353A.svg?&style=for-the-badge&logo=codechef&logoColor=white) ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 
 
 ---
