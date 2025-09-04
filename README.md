@@ -43,7 +43,5 @@
 - 🌐 Mastering Next.js for SEO-friendly dynamic UIs  
 - ⚙️ Automating workflows and professional tasks  
 - 🧠 Cracking competitive programming questions using modular arithmetic
-
+- DSA in C++
 ---
-
-Let me know what you think—want to add project cards or contribution graphs too?
