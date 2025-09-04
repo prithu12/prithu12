@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-🎓 Third-year B.Tech IT student at GGSIPU  
+🎓 Final-year B.Tech IT student at GGSIPU  
 💻 Frontend development enthusiast exploring the world of **Next.js**  
 🌱 Currently diving deeper into **full-stack development**  
 🛠️ I love building sleek UIs, optimizing backend workflows, and solving algorithmic puzzles  
@@ -33,7 +33,8 @@
 ## 📌 Projects
 
 - [Globe Explorer](https://github.com/prithu12/GLOBE-EXPLORER) – AI-powered travel-planning platform works, detailing how users log in securely via Auth0, set preferences like location, duration, budget, and group size, and receive curated trip plans from Gemini AI
-- [Lifeline](https://github.com/priyanshushrma01/Lifeline) – I am in this team for working as a frontend Developer for building frontend in this project. The platform enables people to raise and contribute funds for medical assistance, helping individuals who cannot afford essential treatments or surgeries.
+- [Lifeline](https://github.com/priyanshushrma01/Lifeline) – The platform enables people to raise and contribute funds for medical assistance, helping individuals who cannot afford essential treatments or surgeries.
+-[AI RESUME ANALYZER](https://github.com/prithu12/Ai-resume-Analyzer)- TO check their resume ATS score as well having login/singup option that can check previous resume score that can be uploaded in it . It provide suggestion also.
 -[more soon]
 ---
 
