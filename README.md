@@ -35,6 +35,9 @@
 - [Globe Explorer](https://github.com/prithu12/GLOBE-EXPLORER) – AI-powered travel-planning platform works, detailing how users log in securely via Auth0, set preferences like location, duration, budget, and group size, and receive curated trip plans from Gemini AI
 - [Lifeline](https://github.com/priyanshushrma01/Lifeline) – The platform enables people to raise and contribute funds for medical assistance, helping individuals who cannot afford essential treatments or surgeries.
 - [AI RESUME ANALYZER](https://github.com/prithu12/Ai-resume-Analyzer)- TO check their resume ATS score as well having login/singup option that can check previous resume score that can be uploaded in it . It provide suggestion also.
+- [Crave Cast](https://github.com/prithu12/food-order-using-reel)-created a full-stack platform that lets customers place direct food orders from short-form video reels that highlight local cuisine.
+Displaying popular food videos from nearby vendors through an integrated location-based feed improves visual discovery and user engagement.
+optimized user experience and decreased decision friction by designing a smooth one-tap ordering flow from reel to checkout.
 - [more soon]
 ---
 
